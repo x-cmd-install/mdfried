@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.22.5"
   latestRelease: "v0.22.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:39:21Z
+  collectedAt: 2026-09-09T19:50:15Z
 timeline:
   created: 2024-12-08
   lastCommit: 2026-09-04
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-07
   lastPrerelease: 
 popularity:
-  star: 508
+  star: 507
   watcher: 2
   fork: 13
   release: 59
@@ -85,7 +85,7 @@ total:
   commit: 656
 ---
 path: /home/runner/.x-repo/github.com/benjajaja/mdfried
-collectedAt: 2026-09-09T05:39:25Z
+collectedAt: 2026-09-09T19:50:20Z
 loc:
   Rust:
     code: 11872
