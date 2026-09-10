@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 17160496,
       "digest": "sha256:8d255508afab847c7ca6e10df3e9d940672d73d2093dc2e8cb944174deb83fdd",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-08-07T09:39:16Z",
       "updated_at": "2026-08-07T09:39:17Z",
       "browser_download_url": "https://github.com/benjajaja/mdfried/releases/download/v0.22.5/mdfried_0.22.5-1_amd64.deb"
