@@ -1,0 +1,156 @@
+- repo: altsisyphus
+  srcname: mdfried
+  binnames:
+    - mdfried
+    - mdfried-debuginfo
+  visiblename: mdfried
+  version: 0.22.5
+  origversion: 0.22.5-alt1
+  status: newest
+  summary: A markdown viewer for the terminal that renders images and Big Headers
+  maintainers:
+    - serjigva@altlinux.org
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - File tools
+- repo: arch
+  subrepo: extra
+  srcname: mdfried
+  binname: mdfried
+  visiblename: mdfried
+  version: 0.22.5
+  origversion: 0.22.5-1
+  status: newest
+  summary: A markdown viewer for the terminal that renders images and big headers
+  licenses:
+    - GPL-3.0-only
+- repo: aur
+  srcname: mdfried-bin
+  binname: mdfried-bin
+  visiblename: mdfried-bin
+  version: 0.22.5
+  origversion: 0.22.5-1
+  status: newest
+  summary: A markdown viewer for the terminal that renders images and big headers
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - GPL-3.0-only
+- repo: freebsd
+  srcname: sysutils/mdfried
+  binname: mdfried
+  visiblename: sysutils/mdfried
+  version: 0.22.5
+  origversion: 0.22.5_1
+  status: newest
+  summary: Markdown viewer for the terminal that renders images and big headers
+  maintainers:
+    - nivit@freebsd.org
+  categories:
+    - sysutils
+- repo: homebrew
+  srcname: mdfried
+  visiblename: mdfried
+  version: 0.22.5
+  origversion: null
+  status: newest
+  summary: Terminal markdown viewer
+- repo: homebrew
+  srcname: mdfried
+  visiblename: mdfried
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal markdown viewer
+- repo: macports
+  srcname: textproc/mdfried
+  binname: mdfried
+  visiblename: mdfried
+  version: 0.22.5
+  origversion: null
+  status: newest
+  summary: Markdown terminal viewer
+  maintainers:
+    - oytech@github
+  licenses:
+    - GPL-3
+  categories:
+    - textproc
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: mdfried
+  binname: mdfried
+  visiblename: mdfried
+  version: 0.22.5
+  origversion: 0.22.5-1
+  status: newest
+  summary: A markdown viewer for the terminal that renders images and big headers
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: mdfried
+  visiblename: mdfried
+  version: 0.14.6
+  origversion: null
+  status: outdated
+  summary: Markdown viewer TUI for the terminal, with big text and image rendering
+  maintainers:
+    - ste3ls@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_26_05
+  srcname: mdfried
+  visiblename: mdfried
+  version: 0.22.4
+  origversion: null
+  status: outdated
+  summary: Markdown viewer TUI for the terminal, with big text and image rendering
+  maintainers:
+    - ste3ls@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_unstable
+  srcname: mdfried
+  visiblename: mdfried
+  version: 0.22.5
+  origversion: null
+  status: newest
+  summary: Markdown viewer TUI for the terminal, with big text and image rendering
+  maintainers:
+    - ste3ls@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: parabola
+  subrepo: extra
+  srcname: mdfried
+  binname: mdfried
+  visiblename: mdfried
+  version: 0.22.5
+  origversion: 0.22.5-1
+  status: newest
+  summary: A markdown viewer for the terminal that renders images and big headers
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: mdfried
+  binname: mdfried
+  visiblename: mdfried
+  version: 0.22.5
+  origversion: 0.22.5-1
+  status: newest
+  summary: A markdown viewer for the terminal that renders images and big headers
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: mdfried
+  binname: mdfried
+  visiblename: mdfried
+  version: 0.22.5
+  origversion: 0.22.5-1
+  status: newest
+  summary: A markdown viewer for the terminal that renders images and big headers
+  licenses:
+    - GPL-3.0-only
