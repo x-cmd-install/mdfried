@@ -18,7 +18,7 @@ Total: **13,557** lines of code across **46** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 11,872 | 457 | 1,226 | 34 |
+| Rust | 11,872 | 457 | 1,225 | 34 |
 | Nix | 689 | 31 | 114 | 5 |
 | Svg | 614 | 1 | 1 | 1 |
 | Toml | 367 | 5 | 29 | 5 |
@@ -33,7 +33,7 @@ Total: **13,557** lines of code across **46** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.22.5` (2026-08-07)
-- **Last commit**: 2026-09-04
+- **Last commit**: 2026-09-17
 - **Assets in release**: 5
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **13,557** lines of code across **46** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 115 · **Open PRs**: 1 · **Closed issues**: 56 · **Open issues**: 12 · **Commits**: 656
+- **Releases**: 59 · **Merged PRs**: 116 · **Open PRs**: 1 · **Closed issues**: 56 · **Open issues**: 12 · **Commits**: 657
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 2 | 0 | 2 | 4 | 5 |
-| last60d | 2026-07-19 | 1 | 4 | 1 | 2 | 6 | 10 |
-| 90d | 2026-06-19 | 3 | 8 | 1 | 5 | 7 | 14 |
-| last180d | 2026-03-21 | 20 | 73 | 1 | 24 | 10 | 286 |
-| 360d | 2025-09-22 | 39 | 108 | 1 | 42 | 12 | 509 |
-| last720d | 2024-09-27 | 59 | 115 | 1 | 56 | 12 | 654 |
+| 30d | 2026-08-19 | 0 | 3 | 0 | 2 | 4 | 6 |
+| last60d | 2026-07-20 | 1 | 5 | 1 | 2 | 6 | 11 |
+| 90d | 2026-06-20 | 3 | 9 | 1 | 5 | 7 | 15 |
+| last180d | 2026-03-22 | 20 | 74 | 1 | 24 | 10 | 287 |
+| 360d | 2025-09-23 | 39 | 109 | 1 | 42 | 12 | 510 |
+| last720d | 2024-09-28 | 59 | 116 | 1 | 56 | 12 | 655 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for mdfried lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:59:07Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:40:15Z._
