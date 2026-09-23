@@ -4,7 +4,7 @@
 
 A markdown viewer for the terminal that renders images and Big Headers™
 
-[![x-cmd/install — mdfried Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mdfried.svg?lang=zh)](https://x-cmd.com/install/mdfried)
+[![x-cmd/install — mdfried Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mdfried.svg?lang=zh)](https://x-cmd.com/install/mdfried)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install mdfried
 
 ## 流行度
 
-- **Star**: 513 · **Fork**: 15 · **开放 issue**: 68 · **贡献者**: 7
+- **Star**: 515 · **Fork**: 16 · **开放 issue**: 68 · **贡献者**: 7
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install mdfried
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 3 | 0 | 1 | 4 | 8 |
-| last60d | 2026-07-24 | 2 | 5 | 1 | 2 | 6 | 12 |
-| 90d | 2026-06-24 | 2 | 6 | 1 | 5 | 7 | 16 |
-| last180d | 2026-03-26 | 21 | 74 | 1 | 24 | 10 | 289 |
-| 360d | 2025-09-27 | 40 | 109 | 1 | 42 | 12 | 512 |
-| last720d | 2024-10-02 | 60 | 116 | 1 | 56 | 12 | 657 |
+| 30d | 2026-08-24 | 1 | 3 | 0 | 0 | 3 | 8 |
+| last60d | 2026-07-25 | 2 | 5 | 1 | 2 | 6 | 12 |
+| 90d | 2026-06-25 | 2 | 6 | 1 | 5 | 7 | 16 |
+| last180d | 2026-03-27 | 21 | 74 | 1 | 24 | 10 | 289 |
+| 360d | 2025-09-28 | 40 | 109 | 1 | 42 | 12 | 512 |
+| last720d | 2024-10-03 | 60 | 116 | 1 | 56 | 12 | 657 |
 
 ## Release 资产
 
@@ -74,4 +74,4 @@ mdfried 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:44:58Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:44:38Z._
