@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 17156980,
       "digest": "sha256:fc16636867a4edb4d55ec649edeb4ec7a08a83450edcde4ef66579e820f6f61f",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-09-18T11:26:40Z",
       "updated_at": "2026-09-18T11:26:41Z",
       "browser_download_url": "https://github.com/benjajaja/mdfried/releases/download/v0.22.6/mdfried_0.22.6-1_amd64.deb"
