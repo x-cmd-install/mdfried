@@ -14,12 +14,12 @@ x install mdfried
 
 ## Code insight
 
-Total: **13,557** lines of code across **46** files in the top 5 languages.
+Total: **13,725** lines of code across **47** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 11,872 | 457 | 1,225 | 34 |
-| Nix | 689 | 31 | 114 | 5 |
+| Rust | 12,006 | 458 | 1,236 | 35 |
+| Nix | 723 | 34 | 115 | 5 |
 | Svg | 614 | 1 | 1 | 1 |
 | Toml | 367 | 5 | 29 | 5 |
 | Sh | 13 | 1 | 4 | 1 |
@@ -33,27 +33,27 @@ Total: **13,557** lines of code across **46** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.22.6` (2026-09-18)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-07
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 525 · **Forks**: 18 · **Open issues**: 68 · **Contributors**: 7
+- **Stars**: 525 · **Forks**: 18 · **Open issues**: 68 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 116 · **Open PRs**: 2 · **Closed issues**: 56 · **Open issues**: 12 · **Commits**: 660
+- **Releases**: 60 · **Merged PRs**: 118 · **Open PRs**: 0 · **Closed issues**: 56 · **Open issues**: 12 · **Commits**: 662
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 1 | 1 | 0 | 0 | 4 |
-| last60d | 2026-08-08 | 1 | 3 | 1 | 2 | 5 | 9 |
-| 90d | 2026-07-09 | 2 | 6 | 2 | 3 | 7 | 14 |
-| last180d | 2026-04-10 | 19 | 69 | 2 | 20 | 10 | 258 |
-| 360d | 2025-10-12 | 40 | 109 | 2 | 42 | 12 | 506 |
-| last720d | 2024-10-17 | 60 | 116 | 2 | 56 | 12 | 658 |
+| 30d | 2026-09-08 | 1 | 2 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-09 | 1 | 4 | 0 | 2 | 5 | 10 |
+| 90d | 2026-07-10 | 2 | 8 | 0 | 2 | 6 | 16 |
+| last180d | 2026-04-11 | 17 | 71 | 0 | 20 | 10 | 260 |
+| 360d | 2025-10-13 | 40 | 111 | 0 | 42 | 12 | 508 |
+| last720d | 2024-10-18 | 60 | 118 | 0 | 56 | 12 | 660 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for mdfried lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:41:01Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:46:28Z._
