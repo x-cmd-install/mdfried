@@ -14,11 +14,11 @@ x install mdfried
 
 ## Code insight
 
-Total: **13,725** lines of code across **47** files in the top 5 languages.
+Total: **13,726** lines of code across **47** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 12,006 | 458 | 1,236 | 35 |
+| Rust | 12,007 | 458 | 1,236 | 35 |
 | Nix | 723 | 34 | 115 | 5 |
 | Svg | 614 | 1 | 1 | 1 |
 | Toml | 367 | 5 | 29 | 5 |
@@ -32,38 +32,38 @@ Total: **13,725** lines of code across **47** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.22.6` (2026-09-18)
-- **Last commit**: 2026-10-07
+- **Latest**: `v0.22.7` (2026-10-08)
+- **Last commit**: 2026-10-08
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 525 · **Forks**: 18 · **Open issues**: 68 · **Contributors**: 8
+- **Stars**: 524 · **Forks**: 18 · **Open issues**: 68 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 118 · **Open PRs**: 0 · **Closed issues**: 56 · **Open issues**: 12 · **Commits**: 662
+- **Releases**: 61 · **Merged PRs**: 118 · **Open PRs**: 0 · **Closed issues**: 56 · **Open issues**: 12 · **Commits**: 665
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 1 | 2 | 0 | 0 | 0 | 5 |
-| last60d | 2026-08-09 | 1 | 4 | 0 | 2 | 5 | 10 |
-| 90d | 2026-07-10 | 2 | 8 | 0 | 2 | 6 | 16 |
-| last180d | 2026-04-11 | 17 | 71 | 0 | 20 | 10 | 260 |
-| 360d | 2025-10-13 | 40 | 111 | 0 | 42 | 12 | 508 |
-| last720d | 2024-10-18 | 60 | 118 | 0 | 56 | 12 | 660 |
+| 30d | 2026-09-09 | 2 | 2 | 0 | 0 | 0 | 8 |
+| last60d | 2026-08-10 | 2 | 4 | 0 | 2 | 5 | 13 |
+| 90d | 2026-07-11 | 3 | 7 | 0 | 2 | 6 | 19 |
+| last180d | 2026-04-12 | 18 | 71 | 0 | 20 | 10 | 263 |
+| 360d | 2025-10-14 | 40 | 111 | 0 | 42 | 12 | 511 |
+| last720d | 2024-10-19 | 61 | 118 | 0 | 56 | 12 | 663 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [mdfried](https://github.com/benjajaja/mdfried/releases/download/v0.22.6/mdfried) | 188.9 MiB | `other` |
-| [mdfried.exe](https://github.com/benjajaja/mdfried/releases/download/v0.22.6/mdfried.exe) | 172.5 MiB | `other` |
-| [mdfried_0.22.6-1_amd64.deb](https://github.com/benjajaja/mdfried/releases/download/v0.22.6/mdfried_0.22.6-1_amd64.deb) | 16.4 MiB | `runtime/deb/amd64` |
-| [mdfried_macos_aarch64](https://github.com/benjajaja/mdfried/releases/download/v0.22.6/mdfried_macos_aarch64) | 182.8 MiB | `native/darwin/arm64` |
-| [mdfried_macos_x86_64](https://github.com/benjajaja/mdfried/releases/download/v0.22.6/mdfried_macos_x86_64) | 182.0 MiB | `native/darwin/x64` |
+| [mdfried](https://github.com/benjajaja/mdfried/releases/download/v0.22.7/mdfried) | 190.4 MiB | `other` |
+| [mdfried.exe](https://github.com/benjajaja/mdfried/releases/download/v0.22.7/mdfried.exe) | 172.5 MiB | `other` |
+| [mdfried_0.22.7-1_amd64.deb](https://github.com/benjajaja/mdfried/releases/download/v0.22.7/mdfried_0.22.7-1_amd64.deb) | 17.1 MiB | `runtime/deb/amd64` |
+| [mdfried_macos_aarch64](https://github.com/benjajaja/mdfried/releases/download/v0.22.7/mdfried_macos_aarch64) | 183.7 MiB | `native/darwin/arm64` |
+| [mdfried_macos_x86_64](https://github.com/benjajaja/mdfried/releases/download/v0.22.7/mdfried_macos_x86_64) | 182.9 MiB | `native/darwin/x64` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for mdfried lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:46:28Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:43:26Z._
