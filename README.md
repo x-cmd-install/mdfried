@@ -14,11 +14,11 @@ x install mdfried
 
 ## Code insight
 
-Total: **13,726** lines of code across **47** files in the top 5 languages.
+Total: **13,756** lines of code across **47** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 12,007 | 458 | 1,236 | 35 |
+| Rust | 12,037 | 459 | 1,238 | 35 |
 | Nix | 723 | 34 | 115 | 5 |
 | Svg | 614 | 1 | 1 | 1 |
 | Toml | 367 | 5 | 29 | 5 |
@@ -33,7 +33,7 @@ Total: **13,726** lines of code across **47** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.22.7` (2026-10-08)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-10
 - **Assets in release**: 5
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **13,726** lines of code across **47** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 118 · **Open PRs**: 0 · **Closed issues**: 56 · **Open issues**: 12 · **Commits**: 665
+- **Releases**: 61 · **Merged PRs**: 119 · **Open PRs**: 0 · **Closed issues**: 58 · **Open issues**: 10 · **Commits**: 666
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 2 | 2 | 0 | 0 | 0 | 8 |
-| last60d | 2026-08-11 | 2 | 4 | 0 | 2 | 5 | 13 |
-| 90d | 2026-07-12 | 3 | 7 | 0 | 2 | 6 | 19 |
-| last180d | 2026-04-13 | 18 | 71 | 0 | 19 | 10 | 263 |
-| 360d | 2025-10-15 | 40 | 111 | 0 | 42 | 12 | 511 |
-| last720d | 2024-10-20 | 61 | 118 | 0 | 56 | 12 | 663 |
+| 30d | 2026-09-11 | 2 | 3 | 0 | 0 | 0 | 8 |
+| last60d | 2026-08-12 | 2 | 5 | 0 | 3 | 4 | 14 |
+| 90d | 2026-07-13 | 3 | 8 | 0 | 3 | 5 | 20 |
+| last180d | 2026-04-14 | 18 | 72 | 0 | 21 | 8 | 219 |
+| 360d | 2025-10-16 | 40 | 111 | 0 | 43 | 10 | 511 |
+| last720d | 2024-10-21 | 61 | 119 | 0 | 58 | 10 | 664 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for mdfried lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:31:43Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:24:22Z._
