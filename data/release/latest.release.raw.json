@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 199720528,
       "digest": "sha256:cf50815e782ceae3537028fb48d279431d44426e0392e9587f0150d7a0fcd9c8",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-10-13T09:24:37Z",
       "updated_at": "2026-10-13T09:24:43Z",
       "browser_download_url": "https://github.com/benjajaja/mdfried/releases/download/v0.22.8/mdfried"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 180916459,
       "digest": "sha256:1a75d62dcf13428c2040c3955e682d23250ebcd0934e751c9edba4c06f6233cc",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-13T09:24:44Z",
       "updated_at": "2026-10-13T09:24:49Z",
       "browser_download_url": "https://github.com/benjajaja/mdfried/releases/download/v0.22.8/mdfried.exe"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 17984068,
       "digest": "sha256:853f13c6441a77266adee22b07a8590b09822bbd263e023be40c50a20a6b7ddf",
-      "download_count": 73,
+      "download_count": 85,
       "created_at": "2026-10-13T09:25:03Z",
       "updated_at": "2026-10-13T09:25:04Z",
       "browser_download_url": "https://github.com/benjajaja/mdfried/releases/download/v0.22.8/mdfried_0.22.8-1_amd64.deb"
