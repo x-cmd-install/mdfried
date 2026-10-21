@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 199720528,
       "digest": "sha256:cf50815e782ceae3537028fb48d279431d44426e0392e9587f0150d7a0fcd9c8",
-      "download_count": 27,
+      "download_count": 34,
       "created_at": "2026-10-13T09:24:37Z",
       "updated_at": "2026-10-13T09:24:43Z",
       "browser_download_url": "https://github.com/benjajaja/mdfried/releases/download/v0.22.8/mdfried"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 17984068,
       "digest": "sha256:853f13c6441a77266adee22b07a8590b09822bbd263e023be40c50a20a6b7ddf",
-      "download_count": 92,
+      "download_count": 100,
       "created_at": "2026-10-13T09:25:03Z",
       "updated_at": "2026-10-13T09:25:04Z",
       "browser_download_url": "https://github.com/benjajaja/mdfried/releases/download/v0.22.8/mdfried_0.22.8-1_amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 192631680,
       "digest": "sha256:3cf75d644b2a264a970048675889761d13d0c4bf9ada234d9dabdd6864964ce5",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-10-13T09:24:56Z",
       "updated_at": "2026-10-13T09:25:03Z",
       "browser_download_url": "https://github.com/benjajaja/mdfried/releases/download/v0.22.8/mdfried_macos_aarch64"
