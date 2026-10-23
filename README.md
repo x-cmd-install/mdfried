@@ -48,12 +48,12 @@ Total: **13,945** lines of code across **49** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 5 | 2 | 0 | 0 | 15 |
-| last60d | 2026-08-23 | 3 | 8 | 2 | 2 | 3 | 23 |
-| 90d | 2026-07-24 | 4 | 11 | 2 | 3 | 5 | 29 |
-| last180d | 2026-04-25 | 16 | 60 | 2 | 16 | 8 | 214 |
-| 360d | 2025-10-27 | 41 | 114 | 2 | 43 | 10 | 513 |
-| last720d | 2024-11-01 | 62 | 122 | 2 | 58 | 10 | 673 |
+| 30d | 2026-09-23 | 2 | 5 | 2 | 0 | 0 | 15 |
+| last60d | 2026-08-24 | 3 | 8 | 2 | 0 | 3 | 23 |
+| 90d | 2026-07-25 | 4 | 11 | 2 | 3 | 5 | 29 |
+| last180d | 2026-04-26 | 16 | 60 | 2 | 16 | 8 | 214 |
+| 360d | 2025-10-28 | 41 | 114 | 2 | 43 | 10 | 513 |
+| last720d | 2024-11-02 | 62 | 122 | 2 | 58 | 10 | 673 |
 
 ## Release assets
 
@@ -65,6 +65,16 @@ Total: **13,945** lines of code across **49** files in the top 5 languages.
 | [mdfried_macos_aarch64](https://github.com/benjajaja/mdfried/releases/download/v0.22.8/mdfried_macos_aarch64) | 183.7 MiB | `native/darwin/arm64` |
 | [mdfried_macos_x86_64](https://github.com/benjajaja/mdfried/releases/download/v0.22.8/mdfried_macos_x86_64) | 183.0 MiB | `native/darwin/x64` |
 
+## Distribution status
+
+Reported by **14** distros on [repology.org](https://repology.org/project/mdfried). **6** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.22.8` | ✅ latest |
+| Homebrew | `0.22.8` | ✅ latest |
+| Nix unstable | `0.22.6` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for mdfried lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mdfried` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -74,4 +84,4 @@ Install metadata for mdfried lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:26:00Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:23:23Z._

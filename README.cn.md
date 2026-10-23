@@ -48,12 +48,12 @@ x install mdfried
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 5 | 2 | 0 | 0 | 15 |
-| last60d | 2026-08-23 | 3 | 8 | 2 | 2 | 3 | 23 |
-| 90d | 2026-07-24 | 4 | 11 | 2 | 3 | 5 | 29 |
-| last180d | 2026-04-25 | 16 | 60 | 2 | 16 | 8 | 214 |
-| 360d | 2025-10-27 | 41 | 114 | 2 | 43 | 10 | 513 |
-| last720d | 2024-11-01 | 62 | 122 | 2 | 58 | 10 | 673 |
+| 30d | 2026-09-23 | 2 | 5 | 2 | 0 | 0 | 15 |
+| last60d | 2026-08-24 | 3 | 8 | 2 | 0 | 3 | 23 |
+| 90d | 2026-07-25 | 4 | 11 | 2 | 3 | 5 | 29 |
+| last180d | 2026-04-26 | 16 | 60 | 2 | 16 | 8 | 214 |
+| 360d | 2025-10-28 | 41 | 114 | 2 | 43 | 10 | 513 |
+| last720d | 2024-11-02 | 62 | 122 | 2 | 58 | 10 | 673 |
 
 ## Release 资产
 
@@ -65,6 +65,16 @@ x install mdfried
 | [mdfried_macos_aarch64](https://github.com/benjajaja/mdfried/releases/download/v0.22.8/mdfried_macos_aarch64) | 183.7 MiB | `native/darwin/arm64` |
 | [mdfried_macos_x86_64](https://github.com/benjajaja/mdfried/releases/download/v0.22.8/mdfried_macos_x86_64) | 183.0 MiB | `native/darwin/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/mdfried) 上共有 **14** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.22.8` | ✅ latest |
+| Homebrew | `0.22.8` | ✅ latest |
+| Nix unstable | `0.22.6` | ⚠️ outdated |
+
 ## 改进这些数据
 
 mdfried 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `mdfried` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -74,4 +84,4 @@ mdfried 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:26:00Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:23:24Z._
