@@ -14,11 +14,11 @@ x install mdfried
 
 ## Code insight
 
-Total: **13,990** lines of code across **49** files in the top 5 languages.
+Total: **13,996** lines of code across **49** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 12,271 | 462 | 1,258 | 37 |
+| Rust | 12,277 | 462 | 1,258 | 37 |
 | Nix | 723 | 34 | 115 | 5 |
 | Svg | 614 | 1 | 1 | 1 |
 | Toml | 367 | 5 | 29 | 5 |
@@ -33,7 +33,7 @@ Total: **13,990** lines of code across **49** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.22.8` (2026-10-13)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-11-01
 - **Assets in release**: 5
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **13,990** lines of code across **49** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 123 · **Open PRs**: 1 · **Closed issues**: 58 · **Open issues**: 11 · **Commits**: 676
+- **Releases**: 62 · **Merged PRs**: 124 · **Open PRs**: 1 · **Closed issues**: 59 · **Open issues**: 10 · **Commits**: 677
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 2 | 6 | 1 | 0 | 1 | 11 |
-| last60d | 2026-09-02 | 3 | 7 | 1 | 0 | 4 | 19 |
-| 90d | 2026-08-03 | 4 | 9 | 1 | 3 | 6 | 24 |
-| last180d | 2026-05-05 | 14 | 59 | 1 | 14 | 9 | 199 |
-| 360d | 2025-11-06 | 38 | 115 | 1 | 43 | 11 | 473 |
-| last720d | 2024-11-11 | 62 | 123 | 1 | 58 | 11 | 674 |
+| 30d | 2026-10-03 | 2 | 7 | 1 | 1 | 0 | 12 |
+| last60d | 2026-09-03 | 3 | 8 | 1 | 1 | 0 | 20 |
+| 90d | 2026-08-04 | 4 | 10 | 1 | 4 | 5 | 25 |
+| last180d | 2026-05-06 | 14 | 60 | 1 | 14 | 8 | 200 |
+| 360d | 2025-11-07 | 38 | 116 | 1 | 44 | 10 | 474 |
+| last720d | 2024-11-12 | 62 | 124 | 1 | 59 | 10 | 675 |
 
 ## Release assets
 
@@ -67,7 +67,7 @@ Total: **13,990** lines of code across **49** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/mdfried). **7** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/mdfried). **7** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -84,4 +84,4 @@ Install metadata for mdfried lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:41:44Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:45:27Z._
