@@ -77,28 +77,6 @@
     - GPL-3
   categories:
     - textproc
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: mdfried
-  binname: mdfried
-  visiblename: mdfried
-  version: 0.22.5
-  origversion: 0.22.5-1
-  status: outdated
-  summary: A markdown viewer for the terminal that renders images and big headers
-  licenses:
-    - GPL-3.0-only
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: mdfried
-  binname: mdfried
-  visiblename: mdfried
-  version: 0.22.5
-  origversion: 0.22.5-1
-  status: outdated
-  summary: A markdown viewer for the terminal that renders images and big headers
-  licenses:
-    - GPL-3.0-only
 - repo: manjaro_unstable
   subrepo: extra
   srcname: mdfried
