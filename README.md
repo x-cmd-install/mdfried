@@ -38,22 +38,22 @@ Total: **13,996** lines of code across **49** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 544 · **Forks**: 22 · **Open issues**: 69 · **Contributors**: 10
+- **Stars**: 546 · **Forks**: 23 · **Open issues**: 69 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 124 · **Open PRs**: 1 · **Closed issues**: 59 · **Open issues**: 10 · **Commits**: 677
+- **Releases**: 62 · **Merged PRs**: 124 · **Open PRs**: 2 · **Closed issues**: 59 · **Open issues**: 10 · **Commits**: 677
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 2 | 0 | 1 | 0 | 1 |
-| last60d | 2026-09-16 | 3 | 8 | 1 | 1 | 0 | 17 |
-| 90d | 2026-08-17 | 3 | 10 | 1 | 4 | 3 | 25 |
-| last180d | 2026-05-19 | 11 | 45 | 1 | 12 | 8 | 132 |
-| 360d | 2025-11-20 | 32 | 114 | 1 | 43 | 10 | 461 |
-| last720d | 2024-11-25 | 62 | 124 | 1 | 59 | 10 | 675 |
+| 30d | 2026-10-17 | 0 | 2 | 1 | 1 | 0 | 1 |
+| last60d | 2026-09-17 | 3 | 7 | 2 | 1 | 0 | 17 |
+| 90d | 2026-08-18 | 3 | 10 | 2 | 4 | 3 | 25 |
+| last180d | 2026-05-20 | 11 | 42 | 2 | 11 | 8 | 132 |
+| 360d | 2025-11-21 | 32 | 114 | 2 | 43 | 10 | 461 |
+| last720d | 2024-11-26 | 62 | 124 | 2 | 59 | 10 | 675 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for mdfried lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:19:15Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:38:50Z._
