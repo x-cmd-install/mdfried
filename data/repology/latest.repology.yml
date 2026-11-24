@@ -1,14 +1,3 @@
-- repo: nix_stable_25_11
-  srcname: mdfried
-  visiblename: mdfried
-  version: 0.14.6
-  origversion: null
-  status: outdated
-  summary: Markdown viewer TUI for the terminal, with big text and image rendering
-  maintainers:
-    - ste3ls@gmail.com
-  licenses:
-    - GPL-3.0-or-later
 - repo: altsisyphus
   srcname: mdfried
   binnames:
@@ -93,9 +82,9 @@
   srcname: mdfried
   binname: mdfried
   visiblename: mdfried
-  version: 0.22.5
-  origversion: 0.22.5-1
-  status: outdated
+  version: 0.22.8
+  origversion: 0.22.8-1
+  status: newest
   summary: A markdown viewer for the terminal that renders images and big headers
   licenses:
     - GPL-3.0-only
@@ -121,6 +110,17 @@
   summary: A markdown viewer for the terminal that renders images and big headers
   licenses:
     - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: mdfried
+  visiblename: mdfried
+  version: 0.14.6
+  origversion: null
+  status: outdated
+  summary: Markdown viewer TUI for the terminal, with big text and image rendering
+  maintainers:
+    - ste3ls@gmail.com
+  licenses:
+    - GPL-3.0-or-later
 - repo: nix_stable_26_05
   srcname: mdfried
   visiblename: mdfried
