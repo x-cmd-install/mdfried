@@ -38,7 +38,7 @@ Total: **13,996** lines of code across **49** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 548 · **Forks**: 24 · **Open issues**: 69 · **Contributors**: 10
+- **Stars**: 549 · **Forks**: 24 · **Open issues**: 69 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **13,996** lines of code across **49** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 1 | 1 | 1 | 0 | 1 |
-| last60d | 2026-09-25 | 2 | 7 | 2 | 1 | 0 | 17 |
-| 90d | 2026-08-26 | 3 | 10 | 2 | 1 | 3 | 23 |
-| last180d | 2026-05-28 | 11 | 38 | 2 | 9 | 8 | 109 |
-| 360d | 2025-11-29 | 32 | 114 | 2 | 43 | 10 | 461 |
-| last720d | 2024-12-04 | 62 | 124 | 2 | 59 | 10 | 672 |
+| 30d | 2026-10-26 | 0 | 1 | 1 | 1 | 0 | 1 |
+| last60d | 2026-09-26 | 2 | 7 | 2 | 1 | 0 | 17 |
+| 90d | 2026-08-27 | 3 | 10 | 2 | 1 | 3 | 23 |
+| last180d | 2026-05-29 | 11 | 36 | 2 | 9 | 7 | 109 |
+| 360d | 2025-11-30 | 32 | 114 | 2 | 43 | 10 | 461 |
+| last720d | 2024-12-05 | 62 | 124 | 2 | 59 | 10 | 672 |
 
 ## Release assets
 
@@ -65,16 +65,6 @@ Total: **13,996** lines of code across **49** files in the top 5 languages.
 | [mdfried_macos_aarch64](https://github.com/benjajaja/mdfried/releases/download/v0.22.8/mdfried_macos_aarch64) | 183.7 MiB | `native/darwin/arm64` |
 | [mdfried_macos_x86_64](https://github.com/benjajaja/mdfried/releases/download/v0.22.8/mdfried_macos_x86_64) | 183.0 MiB | `native/darwin/x64` |
 
-## Distribution status
-
-Reported by **14** distros on [repology.org](https://repology.org/project/mdfried). **9** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.22.8` | ✅ latest |
-| Homebrew | `0.22.8` | ✅ latest |
-| Nix unstable | `0.22.8` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for mdfried lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mdfried` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +74,4 @@ Install metadata for mdfried lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:51:06Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:33:24Z._
