@@ -48,12 +48,12 @@ Total: **13,996** lines of code across **49** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 1 | 1 | 1 | 0 | 1 |
-| last60d | 2026-09-26 | 2 | 7 | 2 | 1 | 0 | 17 |
-| 90d | 2026-08-27 | 3 | 10 | 2 | 1 | 3 | 23 |
-| last180d | 2026-05-29 | 11 | 36 | 2 | 9 | 7 | 109 |
-| 360d | 2025-11-30 | 32 | 114 | 2 | 43 | 10 | 461 |
-| last720d | 2024-12-05 | 62 | 124 | 2 | 59 | 10 | 672 |
+| 30d | 2026-10-27 | 0 | 1 | 1 | 1 | 0 | 1 |
+| last60d | 2026-09-27 | 2 | 7 | 2 | 1 | 0 | 17 |
+| 90d | 2026-08-28 | 3 | 10 | 2 | 1 | 3 | 23 |
+| last180d | 2026-05-30 | 10 | 36 | 2 | 9 | 7 | 109 |
+| 360d | 2025-12-01 | 32 | 114 | 2 | 43 | 10 | 461 |
+| last720d | 2024-12-06 | 62 | 124 | 2 | 59 | 10 | 672 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for mdfried lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:33:24Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:43:40Z._
